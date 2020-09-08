@@ -517,10 +517,12 @@ hr {
 }
 
 .footer .move-up {
-  top: 50%;
-  right: 6%;
+  z-index: 99;
+  right: 40px;
+  bottom: 40px;
   position: absolute;
 }
+
 
 .footer .move-up span {
   color: var(--midnight);
@@ -664,7 +666,7 @@ hr {
   }
 
   .hero .background {
-    padding-top: 11rem;
+    padding-top: 9rem;
   }
 }
 
