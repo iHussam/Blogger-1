@@ -1,2 +1,2 @@
 # Blogger
-A Fully Responsive Website Template Made With Html, Css, And JQuery.
+A Fully Responsive Website Template made with Html, Css, and JQuery.
